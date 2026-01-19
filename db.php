@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$db = 'workshop_db';
+$db = 'school_db_week8';
 $user = 'root';
 $pass = '';
 try {

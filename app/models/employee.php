@@ -28,7 +28,7 @@ function updateEmployee($id, $name, $title, $skills)
  global $pdo;
  $stmt = $pdo->prepare(
  "UPDATE employees SET name = ?, title = ?, skills = ?
- WHERE id = ?"
+WHERE id = ?"
  );
  $stmt->execute([$name, $title, $skills, $id]);
 }

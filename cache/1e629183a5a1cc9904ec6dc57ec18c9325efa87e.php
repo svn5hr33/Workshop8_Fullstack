@@ -8,4 +8,5 @@
 <hr>
 <?php echo $__env->yieldContent('content'); ?>
 </body>
-</html><?php /**PATH C:\xampp\htdocs\Workshop8\app\views/layout.blade.php ENDPATH**/ ?>
+</html>
+<?php /**PATH C:\xampp\htdocs\Workshop8\app\views/layout.blade.php ENDPATH**/ ?>
